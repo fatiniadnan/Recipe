@@ -300,7 +300,7 @@ public class RecipeActivity extends AppCompatActivity {
         totalPrice = ingredientsRecord.getButter() + ingredientsRecord.getFlour() + ingredientsRecord.getChicken()
                 + ingredientsRecord.getGarlic() + ingredientsRecord.getHoney() + ingredientsRecord.getSoySos();
         return format.format(totalPrice);
-
     }
+
 }
 

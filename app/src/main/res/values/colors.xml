@@ -8,7 +8,7 @@
     <color name="colorIcons">#7C7F81</color>
     <color name="colorPrimaryText">#1e1e1e</color>
     <color name="colorWhite">#FFFFFF</color>
-    <color name="colorWhiteDark">#888585</color>
+    <color name="colorWhiteDark">#DFDFDF</color>
     <color name="colorPrimaryLight">#CA7474</color>
     <color name="colorBackground">#F4F7F7</color>
 </resources>
